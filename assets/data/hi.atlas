@@ -1,0 +1,24 @@
+
+hi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test
+  rotate: false
+  xy: 1, 1
+  size: 640, 853
+  orig: 640, 853
+  offset: 0, 0
+  index: -1
+
+hi2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test2
+  rotate: false
+  xy: 1, 1
+  size: 640, 853
+  orig: 640, 853
+  offset: 0, 0
+  index: -1
